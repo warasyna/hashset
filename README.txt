@@ -1,0 +1,1 @@
+This is an Locality Sensitive Hashing(LSH) library for Nearest Neighbor search.
